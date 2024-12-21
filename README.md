@@ -3,10 +3,10 @@
 Menginstal Dependencies dari requirements.txt
 
 ```sh
-python -m venv flaskEnv
+python -m venv Env
 ```
 ```sh
-source flaskEnv\Scripts\activate
+source Env\Scripts\activate
 ```
 ```sh
 pip install -r requirements.txt
